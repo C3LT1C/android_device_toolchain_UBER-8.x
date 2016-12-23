@@ -1,0 +1,8 @@
+[
+  {
+    "remote":		"bb",
+    "repository":	"matthewdalex/arm-eabi-8.x",
+    "target_path":	"toolchains/UBER/8.x",
+    "revision":		"master"
+  }
+]
